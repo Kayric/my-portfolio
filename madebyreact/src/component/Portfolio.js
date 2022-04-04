@@ -16,17 +16,21 @@ function Portfolio() {
         </div>
 
         <div className="section-body">
-          <div className="filter">
-            <button className="filter-btn active" data-filter="*">
-              React
-            </button>
-          </div>
-
           <div className="grid">
             <a href="https://fungwithme.vercel.app/" target="_blank">
               <div className="grid-item logo-design">
                 <div className="gallery-image">
                   <img src="./img/Jamming.jpg" alt="" />
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="grid">
+            <a href="https://kayric.github.io/colmar-academy/" target="_blank">
+              <div className="grid-item logo-design">
+                <div className="gallery-image">
+                  <img src="./img/colmar.jpg" alt="" />
                   <div className="img-description"></div>
                 </div>
               </div>
