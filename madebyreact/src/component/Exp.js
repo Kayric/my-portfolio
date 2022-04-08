@@ -13,6 +13,16 @@ function Exp() {
 
         <div className="cards">
           <div className="card-wrap">
+            <div className="card" data-card="Generation">
+              <div className="card-content z-index">
+                <img src="./img/Generation.jpg" class="icon" alt="" />
+                <h3 className="title-sm">Learner</h3>
+                <p className="text">Jan 2022 - Apr 2022</p>
+                Junior Software Developer Bootcamp
+              </div>
+            </div>
+          </div>
+          <div className="card-wrap">
             <div className="card" data-card="MikiSolutions">
               <div className="card-content z-index">
                 <img src="./img/miki.jpg" className="icon" alt="" />
@@ -45,17 +55,6 @@ function Exp() {
                 <li>
                   Handling inquiries and requests from colleagues and hotels.
                 </li>
-              </div>
-            </div>
-          </div>
-
-          <div className="card-wrap">
-            <div className="card" data-card="Generation">
-              <div className="card-content z-index">
-                <img src="./img/Generation.jpg" class="icon" alt="" />
-                <h3 className="title-sm">Learner</h3>
-                <p className="text">Jan 2022 - Apr 2022</p>
-                Junior Software Developer Bootcamp
               </div>
             </div>
           </div>

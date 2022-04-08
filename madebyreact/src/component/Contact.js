@@ -29,6 +29,24 @@ function Contact() {
                 </div>
                 <p className="info-text">+66-84681-2951</p>
               </div>
+
+              <div className="information">
+                <div className="contact-icon">
+                  <a href="https://github.com/Kayric">
+                    <i className="fab fa-github"></i>
+                  </a>
+                </div>
+                <p className="info-text">Github</p>
+              </div>
+
+              <div className="information">
+                <div className="contact-icon">
+                  <a href="https://www.linkedin.com/in/kirkrapee/">
+                    <i className="fab fa-linkedin-in"></i>
+                  </a>
+                </div>
+                <p className="info-text">Linkedin</p>
+              </div>
             </div>
           </div>
 
