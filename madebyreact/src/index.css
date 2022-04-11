@@ -515,8 +515,8 @@ nav.open .links {
   }
 
   .gallery-image {
-    height: 250px;
-    max-width: 325px;
+    min-height: 390px;
+    max-width: 290px;
   }
 
   .gallery-image .img-overlay {
@@ -880,8 +880,9 @@ nav.open .links {
   }
 
   .gallery-image {
-    height: 210px;
-    max-width: 270px;
+    min-height: 390px;
+    max-width: 290px;
+    padding: 2.2rem 1.5rem;
   }
 
   .background-bg {

@@ -9,8 +9,8 @@ function Intro() {
           <div className="column-1">
             <h1 className="header-title">Kirkrapee Techavanich</h1>
             <p className="text">
-              Experienced Operations Officer with a history of working in
-              various working environment who have been internal transfer from
+              The Operations Officer with a history of working in various
+              working environment who have been internal transfer from
               administration field to tech field in Dec 2018 by implement the
               knowledge as a user and self learning from W3school to made this
               transfer happened within 2 weeks.
