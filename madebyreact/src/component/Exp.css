@@ -69,17 +69,3 @@
   font-size: 1.15rem;
   margin: 1.8rem 0;
 }
-
-.services .points1 {
-  bottom: -50px;
-  left: -125px;
-  opacity: 0.2;
-  pointer-events: none;
-}
-
-.services .points2 {
-  bottom: -70px;
-  right: -65px;
-  opacity: 0.2;
-  pointer-events: none;
-}

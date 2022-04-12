@@ -21,6 +21,9 @@ function Portfolio() {
               <div className="grid-item logo-design">
                 <div className="gallery-image">
                   <img src="./img/Jamming.jpg" alt="" />
+                  <div class="img-overlay">
+                    <h3>React App</h3>
+                  </div>
                 </div>
               </div>
             </a>
@@ -31,7 +34,22 @@ function Portfolio() {
               <div className="grid-item logo-design">
                 <div className="gallery-image">
                   <img src="./img/colmar.jpg" alt="" />
-                  <div className="img-description"></div>
+                  <div class="img-overlay">
+                    <h3>Bootstrap Web Design</h3>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="grid">
+            <a href="https://github.com/Kayric/finalproject" target="_blank">
+              <div className="grid-item logo-design">
+                <div className="gallery-image">
+                  <img src="./img/GoalToFit.jpg" alt="" />
+                  <div class="img-overlay">
+                    <h3>MERN Stack App</h3>
+                  </div>
                 </div>
               </div>
             </a>
