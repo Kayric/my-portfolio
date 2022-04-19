@@ -16,23 +16,23 @@ function Portfolio() {
         </div>
 
         <div className="section-body">
-          <a href="https://fungwithme.vercel.app/" target="_blank">
-            <div className="grid-item">
-              <div className="gallery-image">
-                <img src="./img/Jamming.jpg" alt="" />
-                <div class="img-overlay">
-                  <h3>React App</h3>
-                </div>
-              </div>
-            </div>
-          </a>
-
           <a href="https://kayric.github.io/colmar-academy/" target="_blank">
             <div className="grid-item">
               <div className="gallery-image">
                 <img src="./img/colmar.jpg" alt="" />
                 <div class="img-overlay">
                   <h3>Bootstrap Web Design</h3>
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <a href="https://fungwithme.vercel.app/" target="_blank">
+            <div className="grid-item">
+              <div className="gallery-image">
+                <img src="./img/Jamming.jpg" alt="" />
+                <div class="img-overlay">
+                  <h3>React App</h3>
                 </div>
               </div>
             </div>
