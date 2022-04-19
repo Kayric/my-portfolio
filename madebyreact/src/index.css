@@ -1116,7 +1116,7 @@ nav.open .links {
   }
 
   .contact-info {
-    display: none;
+    overflow: auto;
   }
 
   .contact-box {

@@ -58,21 +58,6 @@ function Exp() {
               </div>
             </div>
           </div>
-
-          <div className="cards">
-            <div className="card-wrap">
-              <div className="card" data-card="Generation">
-                <div className="card-content z-index">
-                  <img src="./img/SU.png" class="icon" alt="" />
-                  <h3 className="title-sm">
-                    Bachelor of Arts - BA, Anthropology
-                  </h3>
-                  <p className="text">2005-2009</p>
-                  Second-class honors
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>

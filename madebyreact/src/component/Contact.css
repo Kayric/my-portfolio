@@ -32,7 +32,6 @@
   border-radius: 45px;
   padding: 5.5rem 4.5rem;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
 }
 
 .contact-info {

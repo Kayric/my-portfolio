@@ -21,7 +21,7 @@ function Portfolio() {
               <div className="gallery-image">
                 <img src="./img/colmar.jpg" alt="" />
                 <div class="img-overlay">
-                  <h3>Bootstrap Web Design</h3>
+                  <h3>Create Website</h3>
                 </div>
               </div>
             </div>
