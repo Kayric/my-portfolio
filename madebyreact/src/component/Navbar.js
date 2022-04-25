@@ -19,10 +19,7 @@ function Navbar() {
             <li>
               <a href="#contact">Contact</a>
             </li>
-            <a
-              href="https://www.canva.com/design/DAEIqwm1aEM/BjzRtqwRfY2JXK-hO8lcWw/view?utm_content=DAEIqwm1aEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-              className="btn"
-            >
+            <a href="./img/Kirkrapee2022.pdf" className="btn">
               MY CV
             </a>
           </ul>
